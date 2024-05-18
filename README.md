@@ -1,4 +1,4 @@
-I'm a computer science student in the “Classe préparatoire aux grandes écoles” (CPGE) at the Lycée Champollion.
+I'm a computer science student in “Classe préparatoire aux grandes écoles” (CPGE) at the Lycée Champollion.
 I look forward to collaborating with you on all kinds of projects. Contact me there: loisdg@outlook.fr
 
 
