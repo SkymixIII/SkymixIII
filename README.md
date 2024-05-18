@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SkymixIII
-- 👀 I’m interested in dev/machine learning
-- 🌱 I’m currently learning Python/C++
-- 💞️ I’m looking to collaborate on python project
-- 📫 How to reach me at https://www.youtube.com/channel/UCkyDQbYkeGt1jPs607gE4xA
+I'm a computer science student in the “Classe préparatoire aux grandes écoles” (CPGE) at the Lycée Champollion.
+I look forward to collaborating with you on all kinds of projects. Contact me there: loisdg@outlook.fr
 
-<!---
-SkymixIII/SkymixIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I have an advanced level in Python/HTML/CSS.
+Advanced level in C.
+I'm currently learning the basics of Ocaml (this language sucks).
+
